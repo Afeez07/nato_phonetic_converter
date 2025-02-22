@@ -18,7 +18,7 @@ _'Hotel', 'Echo', 'Lima', 'Lima', 'Oscar'_
 
 **Requirements**
 
-- Python 3.x
+- Python 3.12
 
 - pandas library (pip install pandas)
 
